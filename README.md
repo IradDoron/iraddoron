@@ -22,7 +22,7 @@ I'm actively seeking new opportunities to contribute my skills and expertise. Wh
 
 ## 📫 Get in Touch
 
-Feel free to reach out to me via email at [irad.doron@gmail.com] or connect with me on [[LinkedIn](https://www.linkedin.com/in/irad-doron/)]. Let's connect and explore how we can work together.
+Feel free to reach out to me via email at irad.doron@gmail.com or connect with me on LinkedIn(https://www.linkedin.com/in/irad-doron/). Let's connect and explore how we can work together.
 
 ## 📝 Check Out My Projects
 
