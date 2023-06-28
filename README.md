@@ -4,7 +4,7 @@ I'm a Full Stack Developer with a strong focus on Front End development, current
 
 ## 🔧 Technologies & Tools
 
-- Programming languages: JavaScript, TypeScript, Python (basic level)
+- Programming languages: JavaScript, TypeScript, Python
 - Front-end: HTML, CSS, React.js, Next.js
 - Back-end: Node.js, Express.js
 - Databases: MongoDB
