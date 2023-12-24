@@ -29,3 +29,10 @@ Feel free to reach out to me via email at irad.doron@gmail.com or connect with m
 Take a look at my repositories to explore some of my past projects and contributions. I'm constantly learning and evolving as a developer, so stay tuned for more exciting updates!
 
 Thank you for visiting my GitHub profile. Have a fantastic day! 🌟
+
+## GitHub Stats
+
+<p position: absolute align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iraddoron&show_icons=true&locale=en" alt="iraddoron" /></p>
+
+<p position: absolute align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iraddoron&" alt="iraddoron" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=iraddoron&label=Profile%20views&color=0e75b6&style=flat" alt="iraddoron" /> </p>
